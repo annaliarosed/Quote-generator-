@@ -24,5 +24,3 @@ const randomQuote = () => {
 
 document.getElementById("button").addEventListener("click", randomQuote);
 
-console.log(quotes.length);
-console.log(colors.length)
