@@ -5,13 +5,7 @@ body {
     text-align: center;
 }
 
-h1 {
-    text-align: center;
-}
-
 .random-quote-wrapper {
-    max-width: 500px;
-    width: 100%;
     margin: 0 auto;
 }
 
@@ -34,9 +28,4 @@ h1 {
     background-color: white;
     font-weight: bold;
     letter-spacing: 2px;
-    transition: .3s;
-}
-
-#button:hover {
-    transition: .3s;
 }
