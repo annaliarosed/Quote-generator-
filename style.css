@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    align-items: center;
+}
+
+.random-quote-wrapper {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.color-quote {
+    padding: 15px;
+    background-color: #8BBF8C;
+    border: solid 5px #7DAB7E;
+}
+
+#author-box {
+
+}
+
+#button {
+
+}
