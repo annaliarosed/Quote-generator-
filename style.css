@@ -39,5 +39,4 @@ h1 {
 
 #button:hover {
     transition: .3s;
-    box-shadow: 0px 0px 22px -10px rgba(0,0,0,1);
 }
